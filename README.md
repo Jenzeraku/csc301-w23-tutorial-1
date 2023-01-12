@@ -12,6 +12,8 @@
 7. go to github and create a pull request from your branch to the master branch
 merge changes. I'd recommend using a template for your pull request such as this one https://gist.github.com/jcserv/33f19818fde83c18e755b1c138eeac49#file-pull_request_template-md
 
+note: activity inspired by Ethan Lam's CSC301 (winter 22) tutorial 1.
+
 
 
 ## Files used within rebase demo. 
