@@ -2,8 +2,8 @@
 
 
 ## Pull Request Activitiy
-
-1. Clone this repository "git clone https://github.com/Daniel-Laufer/csc301-w23-tutorial-1"
+*note: since you all aren't added as collaborators on this repository, you are unable to push any changes to this repo. Therefore, first **fork** this repository (to create your own "copy" of it), then follow the steps listed below:*
+1. Clone this repository to your computer
 2. Create your own local branch with your name "git checkout -b firstname-lastname"
 3. Create a new text file "firstname-lastname.txt"
 4. Put whatever you want in it - "hello world"
